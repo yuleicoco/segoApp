@@ -31,6 +31,9 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     
+    
+    // 测试地址 git 推送
+    
     /*
     UIButton * btn =[[UIButton alloc]init];
     [btn addTarget:self action:@selector(TouchBtn:) forControlEvents:UIControlEventTouchUpInside];
